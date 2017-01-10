@@ -43,7 +43,7 @@ The following tutorials show how to add offline sync to your mobile clients usin
 * [Apache Cordova: Enable offline sync](app-service-mobile-cordova-get-started-offline-data.md)
 * [iOS: Enable offline sync]
 * [Xamarin iOS: Enable offline sync]
-* [Xamarin Android: Enable offline sync]
+* [Xamarin Android: Enable offline sync](app-service-mobile-xamarin-android-get-started-offline-data.md)
 * [Xamarin.Forms: Enable offline sync](app-service-mobile-xamarin-forms-get-started-offline-data.md)
 * [Universal Windows Platform: Enable offline sync]
 
